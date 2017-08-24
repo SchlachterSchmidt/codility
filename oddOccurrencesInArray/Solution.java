@@ -1,4 +1,4 @@
-package oddOccurrencesInArray;
+package oddoccurrencesinarray;
 
 public class Solution {
 	

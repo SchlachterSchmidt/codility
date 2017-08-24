@@ -1,4 +1,4 @@
-package cyclicRotation;
+package cyclicrotation;
 
 public class Solution {
 	

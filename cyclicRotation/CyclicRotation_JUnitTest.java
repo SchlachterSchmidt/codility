@@ -1,8 +1,8 @@
-package cyclicRotation;
+package cyclicrotation;
 
 import org.junit.Assert;
 import org.junit.Test;
-import cyclicRotation.Solution;
+import cyclicrotation.Solution;
 
 public class CyclicRotation_JUnitTest {
 	

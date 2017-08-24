@@ -1,10 +1,10 @@
-package oddOccurrencesInArray;
+package oddoccurrencesinarray;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import oddOccurrencesInArray.Solution;
+import oddoccurrencesinarray.Solution;
 
 public class OddOccurrenesInArray_JUnitTest {
 

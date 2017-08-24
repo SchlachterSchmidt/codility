@@ -1,4 +1,4 @@
-package binaryGap;
+package binarygap;
 
 import static org.junit.Assert.*;
 
