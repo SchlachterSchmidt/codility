@@ -1,0 +1,1 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40935ce309ea49d791ec99575d8128ba)](https://www.codacy.com/app/SchlachterSchmidt/codility?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SchlachterSchmidt/codility&amp;utm_campaign=Badge_Grade)
