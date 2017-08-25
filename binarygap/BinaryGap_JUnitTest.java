@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class BinaryGap_JUnitTest {
 	
-	Solution tester = new Solution();
+	private Solution tester = new Solution();
 
 	@Test
 	public void caseZero() {
