@@ -8,7 +8,7 @@ import oddoccurrencesinarray.Solution;
 
 public class OddOccurrenesInArray_JUnitTest {
 
-	Solution tester = new Solution();
+	private Solution tester = new Solution();
 
 	@Test
 	public void generalCase() {

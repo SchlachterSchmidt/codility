@@ -6,9 +6,9 @@ import cyclicrotation.Solution;
 
 public class CyclicRotation_JUnitTest {
 	
-	Solution test = new Solution();
-	int[] AllPositiveArray = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-	int[] MixedArray = {1, 2, -3, 4, -5, 6, -7, 8, 9};
+	private Solution test = new Solution();
+	private int[] AllPositiveArray = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+	private int[] MixedArray = {1, 2, -3, 4, -5, 6, -7, 8, 9};
 	
 	@Test
 	public void rotateByPositiveKWithAllPostiveArray() {
