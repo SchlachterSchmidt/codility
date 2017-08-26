@@ -11,7 +11,9 @@ public class MaxCounters {
 	public int[] solution(int n, int[] A) {
 
 		int[] counter = new int[n];
-		int max = 0, min = 0, m = A.length;
+		int max = 0, 
+			min = 0, 
+			m = A.length;
 
 		for (int i = 0; i < m; i++) {
 
