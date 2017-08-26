@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class PermCheck_JUnitTest {
 	
-	PermCheck tester = new PermCheck();
+	private PermCheck tester = new PermCheck();
 	
 
 	@Test

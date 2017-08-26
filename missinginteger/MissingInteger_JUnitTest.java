@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class MissingInteger_JUnitTest {
 
-	MissingInteger tester = new MissingInteger();
+	private MissingInteger tester = new MissingInteger();
 
 	@Test
 	public void baseCasetOne() {
