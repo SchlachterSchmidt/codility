@@ -2,6 +2,10 @@ package permmissingelement;
 
 public class Solution {
 	
+	/*
+	 * Find the missing element in a given permutation
+	 */
+	
 	private long permSum(long n) {
 		return (n * (n + 1) /  2 );
 	}

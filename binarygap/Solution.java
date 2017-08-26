@@ -2,6 +2,10 @@ package binarygap;
 
 public class Solution {
 	
+	/*
+	 * find longest sequence of zeros in binary representation of an integer
+	 */
+	
 	public int solution(int n) {
 		
 		String binRep = Integer.toString(n,2);

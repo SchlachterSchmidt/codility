@@ -2,8 +2,11 @@ package permcheck;
 
 import java.util.HashSet;
 
-
 public class PermCheck {
+	
+	/*
+	 * Check whether array A is a permutation
+	 */
 
 	public int solution(int[] A) {
 
