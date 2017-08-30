@@ -8,7 +8,6 @@ public class GenomicRangeQuery_JUnitTest {
 	
 	private GenomicRangeQuery tester = new GenomicRangeQuery();
 
-	
 	@Test
 	public void baseCase() {
 		
