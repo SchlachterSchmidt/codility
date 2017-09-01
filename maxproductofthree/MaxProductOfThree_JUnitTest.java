@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class MaxProductOfThree_JUnitTest {
 
-	MaxProductOfThree tester = new MaxProductOfThree();
+	private MaxProductOfThree tester = new MaxProductOfThree();
 	
 	@Test
 	public void baseCase() {
