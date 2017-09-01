@@ -9,7 +9,7 @@ public class Bracket {
 	/*
 	 * Determine whether a given string of parentheses is properly nested.
 	 * 
-	 * 
+	 * https://codility.com/demo/results/training49MJ76-3UV/
 	 */
 
 	public int solution(String S) {
