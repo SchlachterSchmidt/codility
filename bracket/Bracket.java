@@ -34,7 +34,8 @@ public class Bracket {
 					if (prev != opposites.get(c)) {
 						return 0;
 					}
-				} else
+				} 
+				else
 					return 0;
 			}
 		}
