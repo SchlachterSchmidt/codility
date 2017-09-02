@@ -25,7 +25,7 @@ public class Fish_JUnitTest {
 	}	
 	
 	@Test
-	public void OneDirection() {
+	public void oneDirection() {
 		
 		int[] A = {4, 3, 2, 1, 5};
 		int[] B = {0, 0, 0, 0, 0};
