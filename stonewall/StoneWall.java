@@ -3,6 +3,17 @@ package stonewall;
 import java.util.Stack;
 
 public class StoneWall {
+	
+	/*
+	 * You are going to build a stone wall. The height of the wall is
+	 * specified by a zero-indexed array H of N positive integers. 
+	 * 
+	 * The wall should be built of cubic stone blocks (that is, all sides of
+	 * such blocks are rectangular). Your task is to compute the minimum number
+	 * of blocks needed to build the wall.
+	 * 
+	 * https://codility.com/demo/results/trainingNGG2R2-4YV/
+	 */
 
 	public int solution(int[] A) {
 		
