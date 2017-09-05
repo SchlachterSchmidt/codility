@@ -44,4 +44,16 @@ public class Nesting_JUnitTest {
 		String S = "(())((())";
 		assertEquals(0, tester.solution(S));
 	}
+	
+	@Test
+	public void failOpenOnly() {
+		String S = "(((((";
+		assertEquals(0, tester.solution(S));
+	}
+	
+	@Test
+	public void failClosingOnly() {
+		String S = "))))";
+		assertEquals(0, tester.solution(S));
+	}
 }
