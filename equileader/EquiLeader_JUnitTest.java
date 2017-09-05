@@ -19,14 +19,14 @@ public class EquiLeader_JUnitTest {
 	public void baseCaseNoLeaderAllDiffer() {
 
 		int[] A = {1, 2, 3, 4};
-		assertEquals(-1, tester.solution(A));
+		assertEquals(0, tester.solution(A));
 	}
 	
 	@Test
 	public void baseCaseNoLeaderNoMajority() {
 
 		int[] A = {1, 2, 3, 4, 4};
-		assertEquals(-1, tester.solution(A));
+		assertEquals(0, tester.solution(A));
 	}
 	
 	@Test
