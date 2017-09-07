@@ -2,7 +2,7 @@ package arrays.cyclicrotation;
 
 import org.junit.Assert;
 import org.junit.Test;
-import arrays.cyclicrotation.CyclicRotation;;
+import arrays.cyclicrotation.CyclicRotation;
 
 public class CyclicRotation_JUnitTest {
 	
