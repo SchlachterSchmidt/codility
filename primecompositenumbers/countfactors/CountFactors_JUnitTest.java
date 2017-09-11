@@ -23,5 +23,4 @@ public class CountFactors_JUnitTest {
 	public void extremeCase() {
 		assertEquals(2, tester.solution(Integer.MAX_VALUE));
 	}
-
 }
