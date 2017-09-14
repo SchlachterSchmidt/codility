@@ -41,7 +41,7 @@ public class Peaks {
 			int currentBlock = blockSize;
 			int blocksWithPeak = 0;
 
-			// for every peak, check if the peak is in the a block
+			// for every peak, check if the peak is in a block
 			for (int peakIter = 0; peakIter < peaks.size(); peakIter++) {
 				// exploiting the fact that Java drops the remainder of division
 				// by default, we know that if dividing the index of the current
